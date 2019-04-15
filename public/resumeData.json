@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name": " Jolene Hoang ",
+    "occupation": " Junior Front-end Developer",
+    "description": "Heading to bridge technology and business, I am interested into topics related to front-end technology, data analysis and entrepreneurial social capital",
+    "image": "profilepic.png",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Do not hestitate to contact me through e-mail or phone :) ",
+    "phone": "+358 449 522 088",
+    "email": "jolene.hoangtu@gmail.com",
+    "address": {
+      "street": "Vesalantie 35",
+      "city": "Helsinki",
+      "zip":"00940"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/10mEVJa5DYdfKJhbmIoyqbnvnIdghSRnt/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hoanghongtu/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/hoangtu1512/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jolenehoangtu",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Front-end development with a sense of business. React + Redux is my favorite combination, but I'm eager to learn more JS frameworks and libraries.",
+    "education": [
+      {
+        "school": "Abo Akademi University",
+        "degree": "MSc, Economics and Business Management",
+        "graduated": "2015-2018",
+        "description": "Major degree in Information and Knowledge Management, and minor in Asian Business Cultures. The program focuses on information management in internal and external organisation processes with a comprehensive range of stakeholder groups."
+      },
+      {
+        "school": "Arcada University of Applied Sciences",
+        "degree": "Specialisation Studies, Big Data Analytics",
+        "graduated": "2018-now",
+        "description": "Employment of machine learning methods in a business environment, broad understanding of big data analytics, descriptive and predictive modelling, as well as optimization."
+      },
+      {
+        "school": "Lahti University of Applied Sciences",
+        "degree": "Bachelor of Business Administration",
+        "graduated": "2009-2013",
+        "description": "Major in International Business puts emphasis especially on international business environment awareness, intercultural adaptability, communication skills and international operations management."
+      }
+    ],
+    "work": [
+      {
+        "company": "Integrify Oy",
+        "title": "Junior Front-end Developer",
+        "years": "August 2018 - Present",
+        "description": "Focused on HTML, CSS, JavaScript, React/Redux, Node and MongoDB. Contributed to build up a new assessment tool for new students."
+      },
+      {
+        "company": "Mai Niemi Oy",
+        "title": "Marketing Specialist",
+        "years": "June 2017 - August 2018",
+        "description": "Managed webshop and searched for international distributors. Analyzed the market data for the company's branding process"
+      },
+      {
+        "company": "Konditoria Ph7",
+        "title": "Logistics Assistant",
+        "years": "May 2016 - September 2016",
+        "description": "Database management through CRM system. Worked with the new project of optimizing packing solutions"
+      },
+      {
+        "company": "Dat Nam Co. LTD",
+        "title": "International Marketing Specialist",
+        "years": "June 2013 - June 2015",
+        "description": "Prepared marketing and tutorial materials for English-speaking customers. Recruited and supervised trainees for the company's projects"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Photoshop",
+        "level": "70%"
+      },
+      {
+        "name": "InDesign",
+        "level": "60%"
+      },
+      {
+        "name": "MS Office",
+        "level": "90%"
+      },
+      {
+        "name": "HTML,CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "70%"
+      },
+      {
+        "name": "Redux",
+        "level": "60%"
+      },
+      {
+        "name": "Tableau",
+        "level": "50%"
+      },
+      {
+        "name": "Qlik Sense",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
